@@ -1,0 +1,3 @@
+server: alm-test2.cybage.com
+port: 4433
+prefix: /classifier-api
